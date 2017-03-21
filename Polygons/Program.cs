@@ -10,6 +10,15 @@ namespace Polygons
     {
         static void Main(string[] args)
         {
+
+
+
+        }
+
+        public void Metoda()
+        {
+         
         }
     }
 }
+
